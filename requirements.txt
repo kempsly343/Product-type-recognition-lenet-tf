@@ -1,0 +1,13 @@
+tensorflow
+keras
+opencv-python
+streamlit
+requests
+numpy
+Pillow==10.0.0
+
+# streamlit==1.19.0
+# requests==2.31.0
+# numpy==1.24.3
+# opencv-python-headless==4.7.0.72
+# Pillow==10.0.0
